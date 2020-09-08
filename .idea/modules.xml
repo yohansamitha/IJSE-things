@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/testing Git hub.iml" filepath="$PROJECT_DIR$/testing Git hub.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/IJSE-thing.iml" filepath="$PROJECT_DIR$/.idea/IJSE-thing.iml" />
     </modules>
   </component>
 </project>
